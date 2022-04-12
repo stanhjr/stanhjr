@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @stanhjr
 - 👀 I’m interested in programing, chess, football, heavy metal, bass playing
-- 🌱 I’m currently learning python, postregsql, sqlite, git, OOP, Flask, JS, html, css3, algorithms, structure data
+- 🌱 I'm developing implementation of the back-end part of mobile applications used flask, django, drf, redis, celery, postgresql, postgis, sql alchemy, firebase, html, js
+
+fixing previously written logic and code
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me https://vk.com/stanhjr
+- 📫 How to reach me https://www.linkedin.com/in/stan-osichnuk/
 
 <!---
 stanhjr/stanhjr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
